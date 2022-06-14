@@ -1,5 +1,7 @@
-for i in range(1,10):
-    if i%2==0:
-        print(i*'*')
+def is_num(a):
+    if type(a) == int:
+        print('число')
+    else:  print('не число')
 
-print('end script!!!')
+
+is_num(input('введите значение: '))
