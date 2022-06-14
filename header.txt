@@ -1,3 +1,1 @@
-first string in file
-create from branch <master>
 create from branch <first>
